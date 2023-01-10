@@ -1,9 +1,3 @@
-#############################################################################
-#Made by bocqueraz with love!                                               #
-#Source: https://www.fifa.com/fr/fifa-world-ranking/men?dateId=id13792      #
-#License: All Right Reserved                                                #
-#############################################################################
-
 ### Importation des modules et de leurs fonctions
 
 from random import randint
